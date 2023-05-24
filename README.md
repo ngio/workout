@@ -10,4 +10,4 @@ https://darebee.com/workouts/burnout-workout.html
 
 
 
-<img src="https://darebee.com/images/workouts/burnout-workout.jpg" alt="Burnout Workout" style="widht:100px;" >
+<img src="https://darebee.com/images/workouts/burnout-workout.jpg" alt="Burnout Workout" style="width:100px;" >

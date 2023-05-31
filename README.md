@@ -9,6 +9,8 @@ DAREBEE : https://darebee.com
 
 2023-05-30 Butterfly sit-ups <img src="./img/butterfly_sit-ups.gif" style="width:100px;" >
 
+2023-05-30 Side plank rotations <img src="./img/sidePlankRotations.gif" style="width:100px;" >
+
 
 
 

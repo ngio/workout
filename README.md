@@ -13,7 +13,7 @@ DAREBEE : https://darebee.com
 
 2023-06-01 Side sky diver push-ups <img src="./img/sky_diver_push_ups.gif" style="width:100px;" >
 
-2023-06-01 Side lunge punches <img src="./img/lunge_punches.gif" style="width:100px;" >
+2023-06-02 Side lunge punches <img src="./img/lunge_punches.gif" style="width:100px;" >
 
 
 .

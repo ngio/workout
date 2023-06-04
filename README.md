@@ -15,6 +15,7 @@ DAREBEE : https://darebee.com
 
 2023-06-02 Side lunge punches <img src="./img/lunge_punches.gif" style="width:100px;" >
 
+2023-06-04 Elbow Clicks <img src="./img/elbow_clicks.gif" style="width:100px;" >
 
 .
 .

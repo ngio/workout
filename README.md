@@ -23,6 +23,8 @@ DAREBEE : https://darebee.com
 
 2023-06-09 <img src="./img/elbow_plank_hold.gif" style="width:100px;" > elbow plank hold
 
+2023-06-10 <img src="./img/single_leg_bridges.gif" style="width:100px;" > single leg bridges
+
 .
 .
 

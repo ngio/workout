@@ -21,6 +21,8 @@ DAREBEE : https://darebee.com
 
 2023-06-07 <img src="./img/clamshells.gif" style="width:100px;" > clamshells
 
+2023-06-09 <img src="./img/elbow_plank_hold.gif" style="width:100px;" > elbow plank hold
+
 .
 .
 

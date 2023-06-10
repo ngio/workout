@@ -25,6 +25,10 @@ DAREBEE : https://darebee.com
 
 2023-06-10 <img src="./img/single_leg_bridges.gif" style="width:100px;" > single leg bridges
 
+2023-06-11 <img src="./img/tree_pose_hold.gif" style="width:100px;" > tree pose hold
+
+
+
 .
 .
 

@@ -29,6 +29,7 @@ DAREBEE : https://darebee.com
 
 2023-06-12 <img src="./img/superman_stretfch_hold.gif" style="width:100px;" > superman stretch hold
 
+2023-06-15 <img src="./img/crunch_kicks.gif" style="width:100px;" > crunch kicks
 
 .
 .

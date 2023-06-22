@@ -1,5 +1,8 @@
 workout series
 
+2023-06-23 일일 1만5천보 걷기 목표 설정
+
+
 DAREBEE : https://darebee.com
 
 2023-05-25 https://darebee.com/daily/may-24-2023.html

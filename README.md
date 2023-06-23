@@ -34,6 +34,7 @@ DAREBEE : https://darebee.com
 
 2023-06-15 <img src="./img/crunch_kicks.gif" style="width:100px;" > crunch kicks
 
+2023-06-23 <img src="./img/balance_leg_swings.gif" style="width:100px;" > balance leg swings
 .
 .
 

@@ -38,6 +38,8 @@ DAREBEE : https://darebee.com
 
 2023-06-25 <img src="./img/knee_to_elbow.gif" style="width:100px;" > knee to elbow
 
+2023-06-27 <img src="./img/knee_to_elbow.gif" style="width:50px;" > [Leg raises](https://darebee.com/daily/june-26-2023.html)
+
 
 .
 .

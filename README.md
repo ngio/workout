@@ -5,7 +5,7 @@ workout series
 
 DAREBEE : https://darebee.com
 
-![image.jpg1](https://github.com/ngio/workout/raw/master/img/backLegRaises.gif){: width="100" height="100"} |![image.jpg2](https://github.com/ngio/workout/raw/master/img/butterfly_sit-ups.gif){: width="100" height="100"}
+![image.jpg1](https://github.com/ngio/workout/raw/master/img/backLegRaises.gif){:width="100"} |![image.jpg2](https://github.com/ngio/workout/raw/master/img/butterfly_sit-ups.gif){: width="100" height="100"}
 
 
 2023-05-25 https://darebee.com/daily/may-24-2023.html

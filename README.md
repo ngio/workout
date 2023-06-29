@@ -5,9 +5,6 @@ workout series
 
 DAREBEE : https://darebee.com
 
-![image.jpg1](https://github.com/ngio/workout/raw/master/img/backLegRaises.gif){:width="100"} |![image.jpg2](https://github.com/ngio/workout/raw/master/img/butterfly_sit-ups.gif){: width="100" height="100"}
-
-
 2023-05-25 https://darebee.com/daily/may-24-2023.html
 
 2023-05-26 <img src="./img/backLegRaises.gif" style="width:100px;" >
@@ -43,6 +40,7 @@ DAREBEE : https://darebee.com
 
 2023-06-27 <img src="./img/knee_to_elbow.gif" style="width:50px;" > [Leg raises](https://darebee.com/daily/june-26-2023.html) <img src="./img/squats.gif" style="width:50px;" >  Squats
 
+2023-06-29 <img src="./img/side_kicks.gif" style="width:100px;" > side kicks
 
 .
 .

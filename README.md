@@ -42,6 +42,8 @@ DAREBEE : https://darebee.com
 
 2023-06-29 <img src="./img/side_kicks.gif" style="width:100px;" > side kicks
 
+2023-06-29 <img src="./img/punches.gif" style="width:100px;" > punches
+
 .
 .
 

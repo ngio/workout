@@ -11,16 +11,8 @@ DAREBEE : https://darebee.com
 
 2023-07-03 <img src="./img/calf_raises.gif" style="width:100px;" > calf raises
 
-reverse~~~~~
+7 월 reverse 
 
-2023-05-25 https://darebee.com/daily/may-24-2023.html
-
-2023-05-26 <img src="./img/backLegRaises.gif" style="width:100px;" >
-
-
-2023-05-30 <img src="./img/butterfly_sit-ups.gif" style="width:100px;" > Butterfly sit-ups 
-
-2023-05-31 <img src="./img/sidePlankRotations.gif" style="width:100px;" > Side plank rotations 
 
 2023-06-01 <img src="./img/sky_diver_push_ups.gif" style="width:100px;" > Side sky diver push-ups 
 
@@ -51,6 +43,20 @@ reverse~~~~~
 2023-06-29 <img src="./img/side_kicks.gif" style="width:100px;" > side kicks
 
 2023-06-29 <img src="./img/punches.gif" style="width:100px;" > punches
+
+
+
+reverse~~~~~
+
+2023-05-25 https://darebee.com/daily/may-24-2023.html
+
+2023-05-26 <img src="./img/backLegRaises.gif" style="width:100px;" >
+
+
+2023-05-30 <img src="./img/butterfly_sit-ups.gif" style="width:100px;" > Butterfly sit-ups 
+
+2023-05-31 <img src="./img/sidePlankRotations.gif" style="width:100px;" > Side plank rotations 
+
 
 
 .

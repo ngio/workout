@@ -5,6 +5,14 @@ workout series
 
 DAREBEE : https://darebee.com
 
+
+
+2023-07-03 <img src="./img/push-ups.gif" style="width:100px;" > push-ups
+
+2023-07-03 <img src="./img/calf_raises.gif" style="width:100px;" > calf raises
+
+reverse~~~~~
+
 2023-05-25 https://darebee.com/daily/may-24-2023.html
 
 2023-05-26 <img src="./img/backLegRaises.gif" style="width:100px;" >
@@ -44,7 +52,6 @@ DAREBEE : https://darebee.com
 
 2023-06-29 <img src="./img/punches.gif" style="width:100px;" > punches
 
-2023-07-03 <img src="./img/calf_raises.gif" style="width:100px;" > calf raises
 
 .
 .

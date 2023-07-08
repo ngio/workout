@@ -6,6 +6,7 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-07-08 <img src="./img/plank_rotations.gif" style="width:100px;" > plank rotations
 
 2023-07-03 <img src="./img/push-ups.gif" style="width:100px;" > push-ups
 

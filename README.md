@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-07-11 <img src="./img/plank_hold" style="width:100px;" > plank holf
+
 2023-07-11 <img src="./img/side_to_side_lunges_with_toe_point.gif" style="width:100px;" > side-to-side lunges with toe point
 
 2023-07-11 <img src="./img/side_bends.gif" style="width:100px;" > side bends

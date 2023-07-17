@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-07-17 <img src="./img/jump_squats.gif" style="width:100px;" > jump_squats
+
 2023-07-16 <img src="./img/plank_hold.gif" style="width:100px;" > plank hold
 
 2023-07-15 <img src="./img/side_to_side_lunges_with_toe_point.gif" style="width:100px;" > side-to-side lunges with toe point

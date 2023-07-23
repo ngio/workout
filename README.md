@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-07-21 <img src="./img/hook_kicks.gif" style="width:100px;" > hook kicks
+
 2023-07-21 <img src="./img/elbow_plank_arm_raises.gif" style="width:100px;" > elbow plank arm raises
 
 2023-07-17 <img src="./img/jump_squats.gif" style="width:100px;" > jump_squats

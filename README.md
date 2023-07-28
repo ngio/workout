@@ -5,10 +5,11 @@ workout series
 
 DAREBEE : https://darebee.com
 
+2023-07-28 <img src="./img/plank_rtations.gif" style="width:100px;" > plank rotations
 
-2023-07-21 <img src="./img/elbow_strikes.gif" style="width:100px;" > elbow strikes
+2023-07-27 <img src="./img/elbow_strikes.gif" style="width:100px;" > elbow strikes
 
-2023-07-21 <img src="./img/hook_kicks.gif" style="width:100px;" > hook kicks
+2023-07-26 <img src="./img/hook_kicks.gif" style="width:100px;" > hook kicks
 
 2023-07-21 <img src="./img/elbow_plank_arm_raises.gif" style="width:100px;" > elbow plank arm raises
 

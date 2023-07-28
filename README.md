@@ -8,7 +8,7 @@ DAREBEE : https://darebee.com
 
 2023-07-24 <img src="./img/get_ups.gif" style="width:100px;" > get_ups
 
-2023-07-28 <img src="./img/plank_rtations.gif" style="width:100px;" > plank rotations
+2023-07-28 <img src="./img/plank_rotations.gif" style="width:100px;" > plank rotations
 
 2023-07-26 <img src="./img/elbow_strikes.gif" style="width:100px;" > elbow strikes
 

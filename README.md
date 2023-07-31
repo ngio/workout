@@ -6,7 +6,9 @@ workout series
 DAREBEE : https://darebee.com
 
 
-2023-07-24 <img src="./img/get_ups.gif" style="width:100px;" > get_ups
+2023-07-31 <img src="./img/lunge_step_ups.gif" style="width:100px;" >  lunge step ups
+
+2023-07-30 <img src="./img/get_ups.gif" style="width:100px;" > get_ups
 
 2023-07-28 <img src="./img/plank_rotations.gif" style="width:100px;" > plank rotations
 

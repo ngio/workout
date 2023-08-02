@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-08-02 <img src="./img/jumping_jacks.gif" style="width:100px;" > jumping_jacks
+
 2023-07-31 <img src="./img/lunge_step_ups.gif" style="width:100px;" >  lunge step ups
 
 2023-07-30 <img src="./img/get_ups.gif" style="width:100px;" > get_ups

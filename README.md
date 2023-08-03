@@ -5,8 +5,11 @@ workout series
 
 DAREBEE : https://darebee.com
 
+2023-08-03 <img src="./img/pacer_steps.gif" style="width:100px;" > pacer steps
 
-2023-08-02 <img src="./img/jumping_jacks.gif" style="width:100px;" > jumping_jacks
+2023-08-02 <img src="./img/jumping_jacks.gif" style="width:100px;" > jumping jacks
+
+2023-08-01 <img src="./img/side_leg_raises.gif" style="width:100px;" > side leg raises
 
 2023-07-31 <img src="./img/lunge_step_ups.gif" style="width:100px;" >  lunge step ups
 

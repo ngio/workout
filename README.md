@@ -5,6 +5,10 @@ workout series
 
 DAREBEE : https://darebee.com
 
+
+
+2023-08-04 <img src="./img/calf_raises.gif" style="width:100px;" > calf_raises
+
 2023-08-03 <img src="./img/pacer_steps.gif" style="width:100px;" > pacer steps
 
 2023-08-02 <img src="./img/jumping_jacks.gif" style="width:100px;" > jumping jacks

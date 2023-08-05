@@ -6,8 +6,9 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-08-06 <img src="./img/push_ups.gif" style="width:100px;" > push ups
 
-2023-08-04 <img src="./img/calf_raises.gif" style="width:100px;" > calf_raises
+2023-08-04 <img src="./img/calf_raises.gif" style="width:100px;" > calf raises
 
 2023-08-03 <img src="./img/pacer_steps.gif" style="width:100px;" > pacer steps
 

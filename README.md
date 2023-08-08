@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-08-08 <img src="./img/stretch_hold.gif" style="width:100px;" > 2 minutes stretch hold
+
 2023-08-07 <img src="./img/knee_to_elbow.gif" style="width:100px;" > knee to elbow
 
 2023-08-06 <img src="./img/push_ups.gif" style="width:100px;" > push ups

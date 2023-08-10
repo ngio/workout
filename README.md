@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-08-10 <img src="./img/alt_arm__leg_raises.gif" style="width:100px;" > alt arm / leg raises
+
 2023-08-08 <img src="./img/boat_pose_hold.gif" style="width:100px;" > boat pose hold
 
 2023-08-08 <img src="./img/stretch_hold.gif" style="width:100px;" > [2 minutes stretch hold](https://darebee.com/daily/august-7-2023.html)

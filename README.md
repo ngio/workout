@@ -6,6 +6,8 @@ workout series
 DAREBEE : https://darebee.com
 
 
+2023-08-11 <img src="./img/toe_tap_hops.gif" style="width:100px;" > toe tap hops
+
 2023-08-10 <img src="./img/alt_arm__leg_raises.gif" style="width:100px;" > alt arm / leg raises
 
 2023-08-08 <img src="./img/boat_pose_hold.gif" style="width:100px;" > boat pose hold

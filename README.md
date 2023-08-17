@@ -8,7 +8,9 @@ DAREBEE : https://darebee.com
 
 2023-08-17 <img src="./img/side_kicks.gif" style="width:100px;" > side_kicks
 
-2023-08-16 <img src="./img/elbow_clicks.gif" style="width:100px;" > elbow clicks
+2023-08-16 <img src="./img/side_kicks.gif" style="width:100px;" > back_leg_raise_hold
+
+2023-08-15 <img src="./img/elbow_clicks.gif" style="width:100px;" > elbow clicks
 
 2023-08-11 <img src="./img/toe_tap_hops.gif" style="width:100px;" > toe tap hops
 

@@ -6,6 +6,9 @@ workout series
 DAREBEE : https://darebee.com
 
 
+
+2023-08-23 <img src="./img/side_jacks.gif" style="width:100px;" > side jacks
+
 2023-08-22 <img src="./img/shoulder_taps.gif" style="width:100px;" > shoulder taps
 
 2023-08-17 <img src="./img/side_kicks.gif" style="width:100px;" > side_kicks

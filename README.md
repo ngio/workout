@@ -1,5 +1,9 @@
 workout series
 
+
+
+2024-02-26  [kettlebell workout Full_body](https://darebee.com/workouts/full-body-kettlebell-workout.html)
+
 2023-06-23 일일 1만5천보 걷기 목표 설정
 
 
